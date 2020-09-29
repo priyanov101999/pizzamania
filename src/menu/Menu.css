@@ -1,0 +1,46 @@
+.menu{
+	width:85%;
+}
+.menu-item{
+	width:25%;
+	margin-right:2%;
+	margin-left:2%;
+	border:2px black double;
+	float:left;
+	border-radius: 10px;
+}
+img{
+	height: auto;
+	width:80%;
+}
+.name{  padding-left: 13px;
+	font-size: 15px;
+	width:60%;
+	float:left;
+	font-family: Arial;
+	text-align: center;
+}
+.des{
+	font-style: italic;
+	font-size: 13px;
+	color: grey;
+	text-align: center;
+	width:70%;
+	float:left;
+}
+.add{
+	width:20%;
+	height: 30px;
+	color:white;
+	background-color:red;
+	border-radius: 2px;
+	float:left;
+	border:none;
+}
+.price{
+	width:30%;
+	padding-top:0;
+	color:green;
+	float:right;
+	font-size:13px;
+}
